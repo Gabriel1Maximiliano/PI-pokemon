@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas sobre <PokeCard /> Debe hacer un match con el Snapshot 1`] = `
+<div>
+  <div
+    class="card-image-container"
+  >
+    <h2>
+      P
+      okeprueba
+    </h2>
+    <a
+      href="/home/78ad527e-0aff-45d9-ac5d-463626452bf0"
+    >
+        
+      <img
+        alt="Imagen de Pokeprueba"
+        class="card-image"
+        src="turma-pokemon-png.png"
+      />
+    </a>
+    <h2>
+      Fuerza
+    </h2>
+    <p>
+      35
+    </p>
+    <h2>
+      Tipo
+    </h2>
+    <p>
+      P
+      sychic
+    </p>
+    <p>
+      I
+      ce
+    </p>
+  </div>
+</div>
+`;

@@ -1,0 +1,25 @@
+.input-search-bar{
+    padding: 5px;
+    margin-top: 2px;
+  
+  }
+  .input-search-bar:hover{
+    background-color: #CECEC9;
+    transition: .5s;
+  }
+  .btn-search-bar{
+    border-radius: 6px;
+    transition: .5s;
+    height: 100%;
+    margin-left: 2px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; font-weight: 1000;
+    font-weight: 1000;
+    color: aliceblue;
+    background-color: coral;
+    text-decoration: none;
+  }
+  .btn-search-bar:hover{
+    background-color: coral;
+    transition: .5s;
+    color:black
+  }

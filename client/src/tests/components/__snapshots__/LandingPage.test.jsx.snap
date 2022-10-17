@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas sobre LandingPage  Debe hacer match con el Snapshot 1`] = `
+<div>
+  <div
+    class="landing-container"
+  >
+    <div
+      class="landing-title"
+    >
+      <h1
+        id="h1-bienvenida"
+      >
+        Bienvenidos a mi página de Pokemon
+      </h1>
+    </div>
+    <a
+      class="nav-link-landing"
+      href="/home"
+    >
+      <button
+        class="btn-landing"
+      >
+        Ingresar
+      </button>
+    </a>
+  </div>
+</div>
+`;

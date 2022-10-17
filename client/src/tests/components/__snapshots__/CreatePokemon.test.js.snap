@@ -1,0 +1,298 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas sobre <CreatePokemon /> Deba hacer un match con el snapshot 1`] = `
+<div>
+  <div
+    class="contenedor-formulario"
+  >
+    <br />
+    <div
+      class="navigation-bar"
+    >
+      <a
+        class="nav-link"
+        href="/home"
+      >
+        Home
+      </a>
+      <a
+        class="nav-link"
+        href="/home/createPokemon"
+      >
+        Crear Pokemon
+      </a>
+      <a
+        aria-current="page"
+        class="nav-link active"
+        href="/"
+      >
+        Landing page
+      </a>
+    </div>
+    <br />
+    <div
+      class="formulario"
+    >
+      <form>
+        <label
+          for="name"
+        >
+          Nombre del Pokemon
+        </label>
+        <br />
+        <br />
+        <div
+          class="decoration-input"
+        >
+          <input
+            class="input"
+            id="name"
+            name="name"
+            placeholder="Ingrese nombre del Pokemon"
+            type="text"
+            value=""
+          />
+          <br />
+          <br />
+          <label
+            for="height"
+          >
+            Altura entre 
+            (1-30)
+             
+          </label>
+          <input
+            id="height"
+            max="30"
+            min="1"
+            name="height"
+            type="number"
+            value=""
+          />
+          <br />
+          <br />
+          <label
+            for="weight"
+          >
+            Peso entre 
+            (1-300)
+             
+          </label>
+          <input
+            id="weight"
+            max="300"
+            min="1"
+            name="weight"
+            type="number"
+            value=""
+          />
+          <br />
+          <br />
+          <label
+            for="hp"
+          >
+            Vida entre 
+            (1-100)
+             
+          </label>
+          <input
+            id="hp"
+            max="100"
+            min="1"
+            name="hp"
+            type="number"
+            value=""
+          />
+          <br />
+          <br />
+          <label
+            for="strength"
+          >
+            Ataque entre 
+            (1-300)
+             
+          </label>
+          <input
+            id="strength"
+            max="300"
+            min="1"
+            name="strength"
+            type="number"
+            value=""
+          />
+          <br />
+          <br />
+          <label
+            for="defense"
+          >
+            Defensa entre 
+            (1-100)
+             
+          </label>
+          <input
+            id="defense"
+            max="100"
+            min="1"
+            name="defense"
+            type="number"
+            value=""
+          />
+          <br />
+          <br />
+          <label
+            for="speed"
+          >
+            Velocidad 
+            (entre 1-100)
+             
+          </label>
+          <input
+            id="speed"
+            max="100"
+            min="1"
+            name="speed"
+            type="number"
+            value=""
+          />
+          <br />
+          <br />
+          <div>
+            <label>
+              Tipos de Pokemon 
+            </label>
+            <select
+              name="type"
+            >
+              <option>
+                ---
+              </option>
+              <option
+                value="normal"
+              >
+                Normal
+              </option>
+              <option
+                value="fighting"
+              >
+                Fighting 
+              </option>
+              <option
+                value="flying"
+              >
+                Flying
+              </option>
+              <option
+                value="poison"
+              >
+                Poison 
+              </option>
+              <option
+                value="ground"
+              >
+                Ground
+              </option>
+              <option
+                value="rock"
+              >
+                Rock
+              </option>
+              <option
+                value="bug"
+              >
+                Bug 
+              </option>
+              <option
+                value="ghost"
+              >
+                Ghost  
+              </option>
+              <option
+                value="steel"
+              >
+                Steel 
+              </option>
+              <option
+                value="fire"
+              >
+                Fire 
+              </option>
+              <option
+                value="water"
+              >
+                Water
+              </option>
+              <option
+                value="grass"
+              >
+                Grass 
+              </option>
+              <option
+                value="electric"
+              >
+                Electric
+              </option>
+              <option
+                value="psychic"
+              >
+                Psychic 
+              </option>
+              <option
+                value="ice"
+              >
+                Ice 
+              </option>
+              <option
+                value="dragon"
+              >
+                Dragon 
+              </option>
+              <option
+                value="dark"
+              >
+                Dark  
+              </option>
+              <option
+                value="fairy"
+              >
+                Fairy 
+              </option>
+              <option
+                value="uknown"
+              >
+                Unknown 
+              </option>
+              <option
+                value="shadow"
+              >
+                Shadow  
+              </option>
+            </select>
+            <ul />
+          </div>
+          <br />
+          <label
+            for="img"
+          >
+            Imagen 
+          </label>
+          <input
+            id="img"
+            name="img"
+            type="text"
+            value=""
+          />
+          <br />
+          <br />
+          <br />
+        </div>
+        <button
+          class="btn"
+          type="submit"
+        >
+          Crear Pokemon
+        </button>
+      </form>
+    </div>
+  </div>
+</div>
+`;

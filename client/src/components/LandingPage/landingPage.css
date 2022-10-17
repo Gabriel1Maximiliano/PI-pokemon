@@ -1,0 +1,50 @@
+.landing-container{
+    margin-left: 5px;
+    width: 97vw;
+      height: 93vh;
+    background-color: #F70245;
+    border: solid 10px;
+  
+    background-image: url('./images/turma-pokemon-png.png');
+  }
+  .btn-landing:hover{
+    background-color: coral;
+    transition: .5s;
+    color:black;
+   
+    
+  }
+  
+  .btn-landing{
+   justify-content: center;
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-top: 450px;
+    margin-right: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 1000;
+    height: 50px;
+    width: 100px;
+    border-radius: 12px;
+    padding-left: 15px;
+    text-align: center;
+    
+    
+  }
+  .landing-title{
+    display: flex;
+    margin-bottom: 12px;
+    justify-content: center;
+    margin-left: 5px;
+    
+  color: aliceblue;
+    
+   
+  }
+  
+  .nav-link-landing{
+    
+    color: #ABABA9;
+    text-decoration: none;
+  }

@@ -1,0 +1,11 @@
+export const GET_ALL_POKEMON = 'GET_ALL_POKEMON';
+export const GET_DETAILS_POKEMON ='GET_DETAILS_POKEMON';
+export const ALPHABETIC_ORDER ='ALPHABETIC_ORDER';
+export const ATTACK_ORDER ='ATTACK_ORDER';
+export const GET_BY_NAME ='GET_BY_NAME';
+export const CREATE_POKEMON ='CREATE_POKEMON';
+export const FILTER_POKE_DB = 'FILTER_POKE_DB';
+export const FILTER_POKE_API = 'FILTER_POKE_API';
+export const BRING_ALL = 'BRING_ALL';
+
+
